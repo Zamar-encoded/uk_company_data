@@ -315,7 +315,7 @@
   "33190": "Repair and maintenance",
   "33200": "Installation of industrial machinery and equipment",
   "35110": "Energy and service",
-  "35300"; "Heating ventilating and air conditioning service"
+  "35300": "Heating ventilating and air conditioning service"
   "36000": "Utilities",
   "37000": "Waste collection",
   "38110": "Waste collection",
@@ -725,6 +725,7 @@
   "99000": "Organizations",
   "99999": "Dormant company"
 }
+
 
 
 

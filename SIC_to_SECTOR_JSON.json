@@ -579,12 +579,12 @@
   "69203": "Tax and accounting",
   "70100": "Activities of head offices",
   "70210": "Public relations and communications services",
-  "70221": "Financial management",
+  "70221": "Financial services",
   "70229": "Management consultancy",
   "71111": "Architect",
   "71112": "Architect",
   "71121": "Engineers",
-  "71122": "Scientific and technical activities",
+  "71122": "Engineers",
   "71129": "Engineers",
   "71200": "Technical activities",
   "72110": "Biotechnology research",
@@ -725,6 +725,7 @@
   "99000": "Organizations",
   "99999": "Dormant company"
 }
+
 
 
 

@@ -53,7 +53,7 @@
   "08920": "Resources services",
   "08930": "Resources services",
   "08990": "Mining",
-  "09100": "Oil and gas",
+  "09100": "Petroleum and natural gas",
   "09900": "Resources services",
   "10110": "Food and beverage services",
   "10120": "Food and beverage services",
@@ -122,7 +122,7 @@
   "16100": "Timber supplier",
   "16210": "Building materials",
   "16220": "Building materials",
-  "16230": "Builders and construction",
+  "16230": "Manufacturing",
   "16240": "Building materials",
   "16290": "Building materials",
   "17110": "Manufacturing",
@@ -356,9 +356,9 @@
   "45112": "Sale of used cars and light motor vehicles",
   "45190": "Car dealer",
   "45200": "Maintenance and repair of motor vehicles",
-  "45310": "Dealerships",
+  "45310": "Wholesale",
   "45320": "Retail",
-  "45400": "Garages",
+  "45400": "Maintenance and repair of motor vehicles",
   "46110": "Dealerships",
   "46120": "Dealerships",
   "46130": "Dealerships",
@@ -418,7 +418,7 @@
   "47230": "Specialty food store",
   "47240": "Bakeries",
   "47250": "Beverages",
-  "47260": "Specialty food store",
+  "47260": "Retail",
   "47290": "Specialty food store",
   "47300": "Retail",
   "47410": "Retail",
@@ -511,7 +511,7 @@
   "58290": "Publishing",
   "59111": "Film",
   "59112": "Film",
-  "59113": "Film",
+  "59113": "Broadcast media production and distribution",
   "59120": "Animation and post production",
   "59131": "Film",
   "59132": "Film",
@@ -593,7 +593,7 @@
   "72190": "Scientific and technical activities",
   "72200": "Research services",
   "73110": "Advertising services",
-  "73120": "Advertising services",
+  "73120": "Media",
   "73200": "Polling",
   "74100": "Design services",
   "74201": "Photo studio",
@@ -727,6 +727,7 @@
   "99000": "Organizations",
   "99999": "Dormant company"
 }
+
 
 
 
